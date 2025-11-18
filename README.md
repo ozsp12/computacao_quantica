@@ -1,5 +1,13 @@
 # Computação Quântica
 
+# Referências
+
+# Materiais de apoio
+* https://aprenda.quantumket.org/01-index.html
+* https://photonq.org/docs/quantum-computing-and-quantum-information/
+* https://github.com/Classiq/classiq-library/tree/main
+
+
 # Social Media
 🌐 Webpage: https://ozsp12.github.io/  
 ✅ GitHub: https://github.com/ozsp12  
