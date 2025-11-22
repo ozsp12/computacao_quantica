@@ -1,5 +1,20 @@
 # Computação Quântica
 
+# Referências
+
+**Notas de aula**
+* [Kockum et al. Lecture notes on quantum computing](https://arxiv.org/abs/2311.08445)
+
+**Cursos online**
+* https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/pages/syllabus/
+* https://nmr.physics.ox.ac.uk/oxonly/C2/support.htm
+* [IMPA - Introduction to Quantum Computing](https://impa.br/ensino/programas-de-formacao/doutorado/minicursos/introduction-to-quantum-computing/)
+
+# Materiais de apoio
+* https://aprenda.quantumket.org/01-index.html
+* https://photonq.org/docs/quantum-computing-and-quantum-information/
+* https://github.com/Classiq/classiq-library/tree/main
+
 # Social Media
 🌐 Webpage: https://ozsp12.github.io/  
 ✅ GitHub: https://github.com/ozsp12  
