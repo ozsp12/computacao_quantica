@@ -18,6 +18,7 @@
 # Social Media
 Currículo Lattes: http://lattes.cnpq.br/6730251976463283  
 Webpage: https://ozsp12.github.io/  
+Substack: https://substack.com/@olsp1982  
 GitHub: https://github.com/ozsp12  
 ResearchGate: https://www.researchgate.net/profile/Osvaldo-Santos-Pereira  
 Google Scholar: https://scholar.google.com/citations?user=HIZp0X8AAAAJ&hl=en  
